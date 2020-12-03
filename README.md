@@ -32,8 +32,8 @@ So how do I use this awesome script?
 
     5. Machine will restart by itself after the script runs
 
-    6. You need to start MSI Central Service manually under services or use Start_MSI.bat before opening DragonCenter and stop it after using Stop_MSI.bat. This is to ensure that the service will be stopped every reboot and not running when you don't need it (else it may install other wacky stuff)
-
+    6. You need to start MSI Central Service manually under services or use Start_MSI.bat before opening DragonCenter and stop it after using Stop_MSI.bat.
+    
     7. Disable Dragon Center from starting up via Task Manager
 
 This is made for version 2.0.92.0 of DragonSh!t. I will try to update this as much as I can on my free time.
