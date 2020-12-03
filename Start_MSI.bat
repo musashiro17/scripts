@@ -1,0 +1,1 @@
+net start "MSI_Central_Service"
