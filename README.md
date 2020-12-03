@@ -1,5 +1,7 @@
 # Dragon Center Debloat Script
 
+Use this script on your own discretion, I provide no warranty nor will support you for any issues. Hope this helps you in any way :)
+
 It's been 5 years since I built a rig and I've been super excited to mess with RGB until I installed Dragon Center and saw cfossspeed on my list of applications. My initial reaction is "Did I get infected on day 1?" That's absurd! So I did some searches and found my way here where a lot of users complain about issues with the infamous Dragon Center. Such a cool name for a broken sofware don't you think?
 
 
@@ -33,3 +35,5 @@ So how do I use this awesome script?
     6. You need to start MSI Central Service manually under services or use Start_MSI.bat before opening DragonCenter and stop it after using Stop_MSI.bat. This is to ensure that the service will be stopped every reboot and not running when you don't need it (else it may install other wacky stuff)
 
     7. Disable Dragon Center from starting up via Task Manager
+
+This is made for version 2.0.92.0 of DragonSh!t. I will try to update this as much as I can on my free time.
