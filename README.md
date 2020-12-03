@@ -1,6 +1,4 @@
-# scripts
-
-Dragon Center Debloat Script
+# Dragon Center Debloat Script
 
 It's been 5 years since I built a rig and I've been super excited to mess with RGB until I installed Dragon Center and saw cfossspeed on my list of applications. My initial reaction is "Did I get infected on day 1?" That's absurd! So I did some searches and found my way here where a lot of users complain about issues with the infamous Dragon Center. Such a cool name for a broken sofware don't you think?
 
